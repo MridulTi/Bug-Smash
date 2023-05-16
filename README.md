@@ -20,7 +20,8 @@ Before the event starts make sure you follow the given instructions:-
 
 5️⃣ Any type of plagiarism should not be tolerated. 
 
-NOW , Follow  the Following Link to begin you Event https://www.hackerrank.com/code-sprint-1684073633
+NOW , 
+### Follow  the Following Link to begin your Event https://www.hackerrank.com/code-sprint-1684073633
 
 ## Important: 
 1. Make sure that you complete code in a time Limit.
