@@ -21,7 +21,7 @@ Before the event starts make sure you follow the given instructions:-
 5️⃣ Any type of plagiarism should not be tolerated. 
 
 NOW , 
-### Go to the Following Link to begin your Event [CODE SPRINT](https://shorturl.at/bLUZ5)
+### Go to the Following Link to begin your Event "[CODE SPRINT](https://shorturl.at/bLUZ5)"
 
 ## Important: 
 1. Make sure that you complete code in a time Limit.
