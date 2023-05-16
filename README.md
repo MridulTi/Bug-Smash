@@ -1,3 +1,5 @@
+![csbg1st](https://github.com/MridulTi/CODE-SPRINT/assets/92802892/2a39ad46-1a98-426b-aac7-965019fabe00)
+
 # CODE-SPRINT
 The CODE SPRINT,an IPEC ACM event, is a thrilling opportunity for coding enthusiasts to test their skills and showcase their abilities against the clock. The event will judge participants based on their correctness and the maximum number of attempted questions
 
