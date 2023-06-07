@@ -1,3 +1,4 @@
+![image](https://github.com/MridulTi/Bug-Smash/assets/92802892/89f0b7aa-1864-4083-a3ea-ce73767b4dd0)
 # Bug Smash: Debugging Event
 Bug Smash is an exciting debugging event where participants will showcase their skills by fixing bugs in the given code. In this event, participants can choose either C or Python as their preferred language and select the appropriate contest based on their chosen language. The objective is not only to debug the code but also to ensure that it passes the provided test cases.
 
@@ -10,7 +11,7 @@ Event Name: Bug Smash
 #### Choose one language either C or Python as your preferred programming language to debug in. Choose carefully as this decision won't be changeable later.
 Select the contest link based on your chosen language:
 #### [C Contest Link](https://www.hackerrank.com/bug-smash-1685945810)
-#### [Python Contest Link](https://www.hackerrank.com/bug-smash-1685945810)
+#### [Python Contest Link](https://www.hackerrank.com/bug-smash-1685945486)
 In the contest, you will find the given code with bugs that need to be fixed.
 Debug the code by identifying and rectifying the errors.
 Ensure that the code passes all the provided test cases.
