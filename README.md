@@ -4,8 +4,8 @@ Bug Smash is an exciting debugging event where participants will showcase their 
 
 ##Contest Details
 Event Name: Bug Smash
-### Date: [Date of the event]
-### Time: [Time of the event]
+### Date: 08.06.23
+### Time: 03.00 PM
 ### Language Choices: C or Python
 ## Instructions
 #### Choose one language either C or Python as your preferred programming language to debug in. Choose carefully as this decision won't be changeable later.
